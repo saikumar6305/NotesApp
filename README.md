@@ -13,7 +13,7 @@ It allows users to create, view, and append notes using **File I/O**.
 
 ---
 
-## 🖥 Technologies Used
+## Technologies Used
 - Java (Core)
 - File I/O (`FileWriter`, `BufferedReader`, `FileReader`)
 - Java Console I/O (`Scanner`)
